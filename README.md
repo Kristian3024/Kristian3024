@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Kristian3024
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C++ language.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Java.
 - 📫 How to reach me: Via email: kolevkristian1@gmail.com
 
 <!---
